@@ -7,3 +7,6 @@
 <br>https://www.gutenberg.org/cache/epub/834/pg834.txt</br>
 <br>https://www.gutenberg.org/cache/epub/2097/pg2097.txt</br>
 
+<br>Web Application Interface</br>
+<br>![Alt Text](https://github.com/thamakornk-ait/A2_language_model_st124481/blob/main/Screenshot%202024-02-01%20122326.png)</br>
+<br>![Alt Text](https://github.com/thamakornk-ait/A2_language_model_st124481/blob/main/Screenshot%202024-02-01%20122358.png)</br>
